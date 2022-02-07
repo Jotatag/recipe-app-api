@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe app api source code.
+Simple recipe app api using Django and django-rest-framework.
